@@ -1,0 +1,33 @@
+@font-face
+{
+  font-family: bt1;
+  src: url('../sszhj.ttf')
+}
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-emphasis: none;
+  border: none;
+  font-family: "Microsoft YaHei UI Light";
+  font-size: 14px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #3e4b5e;
+}

@@ -1,0 +1,30 @@
+
+.searchWrap-page1 {
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+.searchWrap-page1>input {
+  display: block;
+  width: 1000px;
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid #a5a2a2;
+  padding-left: 20px;
+  outline: none;
+}
+
+.searchWrap-page1>button {
+  display: block;
+  width: 150px;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: #5696ee;
+  color: #fff;
+  font-family: bt1;
+  font-size: 18px;
+  cursor: pointer;
+}

@@ -1,0 +1,85 @@
+{
+  "status": 1,
+  "message": "",
+  "result": {
+    "emailList": [
+      {
+        "From": "admin@tydic.com",
+        "To": "joey<joey@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2010-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "admin@tydic.com",
+        "To": "kevin<kevin@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2011-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "admin@tydic.com",
+        "To": "john<john@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2012-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "admin@tydic.com",
+        "To": "elvin<elvin@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2013-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "admin@tydic.com",
+        "To": "yoko<yoko@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2014-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "admin@tydic.com",
+        "To": "joey<joey@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2010-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "admin@tydic.com",
+        "To": "kevin<kevin@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2011-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "admin@tydic.com",
+        "To": "john<john@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2012-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "admin@tydic.com",
+        "To": "elvin<elvin@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2013-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "admin@tydic.com",
+        "To": "yoko<yoko@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2014-01-01",
+        "SendIP": "8.8.8.8"
+      },
+      {
+        "From": "XXXX@tydic.com",
+        "To": "XXXXX<XXXXX@tydic.com>",
+        "Subject": "天气转热，请大家注意保暖",
+        "SendDate": "2114-01-01",
+        "SendIP": "8.8.8.8"
+      }
+    ]
+  }
+}

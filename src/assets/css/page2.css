@@ -1,0 +1,105 @@
+
+.mainWrap {
+  width: 1070px;
+  margin: 0 auto;
+}
+
+.searchWrap-page2 {
+  width: 100%;
+  position: relative;
+}
+
+.searchWrap-page2 > input {
+  display: block;
+  width: 95%;
+  height: 40px;
+  margin: 0 auto;
+  border-radius: 5px;
+  border: 2px solid #a5a2a2;
+  margin-top: 30px;
+  padding-left: 20px;
+}
+
+.searchWrap-page2 > button {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 2.5%;
+  width: 100px;
+  height: 40px;
+  background: url("../images/fdj1.png") center 5px no-repeat;
+  background-size: 30px 30px;
+  background-color: #a5a2a2;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+
+.mailBox {
+  float: left;
+  width: 15%;
+  height: 110px;
+  margin-left: 2.5%;
+  margin-top: 30px;
+  border-radius: 5px;
+  border: 2px solid #a5a2a2;
+}
+
+.mailBox li {
+  width: 100%;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.mailBox li span {
+  display: block;
+  width: 80%;
+  height: 35px;
+  margin: 0 auto;
+}
+
+.mailBox li.selected span {
+  color: #5696ee;
+  border-bottom: 1px solid #5696ee;
+}
+
+.mailBox li:hover span {
+  color: #5696ee;
+}
+
+.mailContent-page2 {
+  float: left;
+  margin-left: 2.5%;
+  margin-top: 30px;
+  width: 77.5%;
+  min-height: 600px;
+
+}
+
+.mailContent-page2 > table {
+  width: 100%;
+  border: 1px solid #a5a2a2;
+  border-radius: 5px;
+}
+
+.mailContent-page2 > table tr {
+  height: 50px;
+}
+
+.mailContent-page2 > table tr td,
+.mailContent-page2 > table tr th {
+  text-align: center;
+  border: .5px solid #a5a2a2;
+}
+
+.mailContent-page2 > table tr th {
+  background-color: rgba(165, 162, 162, 0.5);
+  color: #fff;
+}
+
+.pageCon {
+  width: 365px;
+  margin: 0 auto;
+  margin-top: 30px;
+}

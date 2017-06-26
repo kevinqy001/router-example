@@ -1,0 +1,110 @@
+.mainWrap {
+  width: 1070px;
+  margin: 0 auto;
+}
+
+.searchWrap-page3 {
+  width: 95%;
+  height: 206px;
+  margin: 0 auto;
+  margin-top: 30px;
+  border: 2px solid #a5a2a2;
+  border-radius: 5px;
+}
+
+.searchWrap-page3 > table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.searchWrap-page3 > table tr td:nth-child(2n-1) {
+  text-align: right;
+  text-indent: 5px;
+  width: 85px;
+}
+
+.searchWrap-page3 > table tr {
+  height: 45px;
+}
+
+.searchWrap-page3 > table tr td input {
+  height: 40px;
+  margin-left: 5px;
+  border: 1px solid #a5a2a2;
+  border-radius: 4px;
+  text-indent: 5px;
+}
+
+.searchWrap-page3 > table tr td input:nth-child(1) {
+  width: 150px;
+}
+
+.searchWrap-page3 > table tr:nth-child(1) td:nth-last-child(1) input {
+  width: 146px;
+}
+
+.searchWrap-page3 > table tr:nth-child(2) td:nth-last-child(1) div.el-date-editor {
+  width: 400px !important;
+}
+
+.buttonWrap {
+  width: 155px;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.buttonWrap button {
+  width: 75px;
+  height: 40px;
+  border-radius: 5px;
+  float: left;
+  cursor: pointer;
+}
+
+.buttonWrap button:nth-child(1) {
+  background-color: #a5a2a2;
+  color: #fff;
+}
+
+.buttonWrap button:nth-child(2) {
+  background-color: #fff;
+  border: 1px solid #a5a2a2;
+  margin-left: 5px;
+  color: #a5a2a2;
+}
+
+.mailContent {
+  float: left;
+  margin-left: 2.5%;
+  margin-top: 30px;
+  width: 95%;
+  min-height: 600px;
+}
+
+.mailContent table {
+  width: 100%;
+  border: 1px solid #a5a2a2;
+  border-radius: 5px;
+}
+
+.mailContent table tr {
+  height: 50px;
+}
+
+.mailContent table tr td,
+.mailContent table tr th {
+  text-align: center;
+  border: 0.5px solid #a5a2a2;
+}
+
+.mailContent table tr th {
+  background-color: rgba(165, 162, 162, 0.5);
+  color: #fff;
+}
+
+.pageCon {
+  width: 365px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
